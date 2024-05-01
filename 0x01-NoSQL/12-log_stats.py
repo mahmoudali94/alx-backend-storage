@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''log module.
+''' log module.
 '''
 from pymongo import MongoClient
 
